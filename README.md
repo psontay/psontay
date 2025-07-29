@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/7a677d30-e3fb-4e44-ae35-0caf4fce1f3e" alt="fang-yuan" />
+  <img width="100%" src="https://github.com/user-attachments/assets/7a677d30-e3fb-4e44-ae35-0caf4fce1f3e" alt="me" />
 </p>
 
 <p align="center">
@@ -63,9 +63,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark" alt="psontay" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
+    </td>
+    <td>
+<img src="https://github.com/user-attachments/assets/9ac052ab-af70-479f-a8f6-663e7fe95fe3" alt="me" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 

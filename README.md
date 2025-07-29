@@ -82,6 +82,12 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact" alt="psontay" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 

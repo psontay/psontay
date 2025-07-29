@@ -1,7 +1,8 @@
 <h1 align="center">How's is going👋, I'm son tay pham</h1>
 <p align="center">
-  <img width="100%" style="border-radius: 12px;" src="https://tenor.com/view/fang-yuan-cổ-nguyệt-phương-nguyên-cổ-chân-nhân-gif-15142058346000489023" alt="me" />
+  <img width="100%" src="https://user-images.githubusercontent.com/74462760/327239398-489ae3ef-88ef-4b5f-a2f4-4711de6d37b5.gif" alt="fang-yuan" />
 </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psontay" alt="psontay" /></a> </p>
 
@@ -20,6 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&locale=en" alt="psontay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psontay&" alt="psontay" /></p>
-<p align="center">
-  <img width="100%" style="border-radius: 12px;" src="https://media1.tenor.com/m/0iNl1vGZGj8AAAAd/fang-yuan-c%E1%BB%95-nguy%E1%BB%87t-ph%C6%B0%C6%A1ng-nguy%C3%AAn.gif" alt="fang-yuan" />
-</p>

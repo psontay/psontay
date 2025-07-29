@@ -30,69 +30,51 @@
 
 ---
 
-<h3 align="center">⚒️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      </a>
-      <br/>C++
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      </a>
-      <br/>C#
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      </a>
-      <br/>Java
-    </td>
-    <td align="center" width="80">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" />
-      </a>
-      <br/>Flutter
-    </td>
-    <td align="center" width="80">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      </a>
-      <br/>Git
-    </td>
-    <td align="center" width="80">
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
-      </a>
-      <br/>Spring
-    </td>
-    <td align="center" width="80">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
-      </a>
-      <br/>Android
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="background-color:#1e1e1e; border:1px solid #444; border-radius:8px; padding:10px;">
+    <tr>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/><span style="color:#fff">C++</span>
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><span style="color:#fff">C#</span>
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><span style="color:#fff">Java</span>
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br/><span style="color:#fff">Flutter</span>
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/><span style="color:#fff">Git</span>
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/><br/><span style="color:#fff">Spring</span>
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br/><span style="color:#fff">Android</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact" alt="psontay" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark" alt="psontay" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=psontay&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=psontay&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---

@@ -45,18 +45,18 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><span style="color:#fff">Java</span>
       </td>
       <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/><br/><span style="color:#fff">Spring</span>
+      </td>
+      <td align="center" width="80">
+          <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br/><span style="color:#fff">Dart</span>
+      </td>
+      <td align="center" width="80">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br/><span style="color:#fff">Flutter</span>
       </td>
       <td align="center" width="80">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/><span style="color:#fff">Git</span>
       </td>
-      <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/><br/><span style="color:#fff">Spring</span>
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br/><span style="color:#fff">Android</span>
-      </td>
-    </tr>
+
   </table>
 </div>
 

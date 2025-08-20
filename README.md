@@ -10,7 +10,7 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="mailto:phamsontay2206@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" width="30" alt="Email" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" width="30" alt="Email" />
 </a>
   &nbsp;
   <a href="https://linkedin.com/in/son-tay-pham-3a4558334" target="_blank">

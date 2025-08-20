@@ -3,22 +3,16 @@
   <img width="100%" src="https://github.com/user-attachments/assets/7a677d30-e3fb-4e44-ae35-0caf4fce1f3e" alt="me" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=psontay&theme=onedark" alt="psontay" />
-  </a>
-</p>
 
 ---
 
-### 📬 Contact  
-- 📧 Email: **phamsontay2206@gmail.com**
-
----
 
 <h3 align="left">🤝 Connect with me:</h3>
-
 <p align="left">
+<a href="mailto:phamsontay2206@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" width="30" alt="Email" />
+</a>
+  &nbsp;
   <a href="https://linkedin.com/in/son-tay-pham-3a4558334" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -27,6 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
@@ -37,9 +32,6 @@
     <tr>
       <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/><span style="color:#fff">C++</span>
-      </td>
-      <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/><br/><span style="color:#fff">C#</span>
       </td>
       <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><span style="color:#fff">Java</span>
@@ -74,16 +66,6 @@
   </tr>
 </table>
 
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=psontay&theme=onedark" alt="GitHub Streak" />
-</p>
 
 ---
 

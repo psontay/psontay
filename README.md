@@ -1,7 +1,6 @@
+<h1 align="center">How's it going 😉, I'm Son Tay Pham</h1>
+<h3 align="center">A passionate Java & Spring Developer | Backend enthusiast | Learning Flutter & Dart</h3>
 
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/7a677d30-e3fb-4e44-ae35-0caf4fce1f3e" alt="me" />
-</p>
 
 
 ---

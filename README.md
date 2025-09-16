@@ -1,5 +1,4 @@
 <h1 align="center">How's it going 😉, I'm Son Tay Pham</h1>
-<h3 align="center">A passionate Java & Spring Developer | Backend enthusiast | Learning Flutter & Dart</h3>
 
 
 

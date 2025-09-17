@@ -67,5 +67,5 @@
 
 ---
 
-<p align="center">"Morality is a lie | Destiny is a cage | Power is the only truth "</p>
+<p align="center">"Sống rực rỡ như hoa mùa hạ , chết đẹp đẽ như lá mùa thu !"</p>
 

@@ -67,5 +67,5 @@
 
 ---
 
-<p align="center">"Sống rực rỡ như hoa mùa hạ , chết đẹp đẽ như lá mùa thu !"</p>
+<p align="center">"Cho dù chỉ còn lại một ý chí."</p>
 

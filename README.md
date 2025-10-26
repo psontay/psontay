@@ -47,16 +47,16 @@
 
 ---
 
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark&cache_seconds=3600" />
     </td>
     <td>
 <img src="https://github.com/user-attachments/assets/9ac052ab-af70-479f-a8f6-663e7fe95fe3" alt="me" />
     </td>
   </tr>
-</table> -->
+</table> 
 
 
 ---

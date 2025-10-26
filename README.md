@@ -1,11 +1,11 @@
-<h1 align="center">How's it going 😉, I'm Son Tay Pham</h1>
+<h1 align="center">How's it going , I'm Son Tay Pham</h1>
 
 
 
 ---
 
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:phamsontay2206@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" width="30" alt="Email" />
@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools 🛠️</h3>
+<h3 align="center"> Languages and Tools </h3>
 
 <div align="center">
   <table style="background-color:#1e1e1e; border:1px solid #444; border-radius:8px; padding:10px;">

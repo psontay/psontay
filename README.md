@@ -61,5 +61,5 @@
 
 ---
 
-<p align="center">"Cho dù chỉ còn lại một ý chí."</p>
+<p align="center"><b>"Cho dù chỉ còn lại một ý chí."</b></p>
 

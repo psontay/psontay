@@ -7,20 +7,33 @@
 ---
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:phamsontay2206@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" height="30" width="30" alt="Email" />
-</a>
-  &nbsp;
-  <a href="https://linkedin.com/in/son-tay-pham-3a4558334" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/sontaypham226" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+<h3 align="center">Connect with me</h3>
+
+<div align="center">
+  <table style="background-color:#1e1e1e; border:1px solid #444; border-radius:8px; padding:10px;">
+    <tr>
+      <td align="center" width="80">
+        <a href="mailto:phamsontay2206@gmail.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/><br/>
+          <span style="color:#fff;">Gmail</span>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://linkedin.com/in/son-tay-pham-3a4558334" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/><br/>
+          <span style="color:#fff;">LinkedIn</span>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://fb.com/sontaypham226" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/><br/>
+          <span style="color:#fff;">Facebook</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ---
@@ -31,20 +44,29 @@
   <table style="background-color:#1e1e1e; border:1px solid #444; border-radius:8px; padding:10px;">
     <tr>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/><span style="color:#fff">C++</span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>
+        <span style="color:#fff">C++</span>
       </td>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/><span style="color:#fff">Java</span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
+        <span style="color:#fff">Java</span>
       </td>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/><br/><span style="color:#fff">Spring</span>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/><br/>
+        <span style="color:#fff">Spring</span>
       </td>
       <td align="center" width="80">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/><span style="color:#fff">Git</span>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/>
+        <span style="color:#fff">Git</span>
       </td>
-
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br/>
+        <span style="color:#fff">Redis</span>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 ---

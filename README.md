@@ -1,6 +1,8 @@
 <h1 align="center">How's it going , I'm Son Tay Pham</h1>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a39319dd-95fd-4e6b-989a-766a77669cd4" alt="intro gif" width="1010"/>
+</p>
 
 ---
 

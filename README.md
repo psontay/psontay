@@ -19,7 +19,7 @@
         </a>
       </td>
       <td align="center" width="80">
-        <a href="https://linkedin.com/in/son-tay-pham-3a4558334" target="_blank">
+        <a href="https://linkedin.com/in/still-sontaypham" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/><br/>
           <span style="color:#fff;">LinkedIn</span>
         </a>

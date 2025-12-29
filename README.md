@@ -70,9 +70,10 @@
 
 ---
 
-<table align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark&cache_seconds=3600" />
-</table> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&theme=dark" />
+</p>
+
 
 
 ---

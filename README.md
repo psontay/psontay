@@ -28,8 +28,7 @@
 
 
 
-<hr style="border: none; height: 1px; background-color: #444; margin: 30px 0;" />
-
+<hr style="border: none; border-top: 1px solid #30363d; margin: 25px 0; opacity: 0.5;" />
 
 <h3 align="center"> Languages and Tools </h3>
 
@@ -66,8 +65,8 @@
 
 
 
-<hr style="border: none; height: 1px; background-color: #444; margin: 30px 0;" />
+<hr style="border: none; border-top: 1px solid #30363d; margin: 25px 0; opacity: 0.5;" />
 
-
-<p align="center"><b>"Cho dù chỉ còn lại một ý chí."</b></p>
-
+<p align="center" style="font-weight: 300; color: #8b949e; font-style: italic;">
+  "Sống rực rỡ như hoa mùa hạ, chết đẹp đẽ như lá mùa thu."
+</p>

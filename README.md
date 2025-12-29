@@ -51,7 +51,7 @@
         <span style="color:#fff">Spring</span>
       </td>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"width="40" height="40" alt="Go"/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" alt="Go""4
         <span style="color:#fff">Go</span>
       </td>
       <td align="center" width="80">

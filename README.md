@@ -1,10 +1,5 @@
 <h1 align="center">How's it going , I'm Son Tay Pham</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a39319dd-95fd-4e6b-989a-766a77669cd4" alt="intro gif" width="1010"/>
-</p>
-
----
 
 
 <h3 align="center">Connect with me</h3>
@@ -72,14 +67,7 @@
 ---
 
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark&cache_seconds=3600" />
-    </td>
-    <td>
-<img src="https://github.com/user-attachments/assets/9ac052ab-af70-479f-a8f6-663e7fe95fe3" alt="me" />
-    </td>
-  </tr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psontay&show_icons=true&locale=en&layout=compact&theme=onedark&cache_seconds=3600" />
 </table> 
 
 

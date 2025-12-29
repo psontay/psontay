@@ -10,19 +10,16 @@
       <td align="center" width="80">
         <a href="mailto:phamsontay2206@gmail.com" target="_blank">
           <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/><br/>
-          <span style="color:#fff;">Gmail</span>
         </a>
       </td>
       <td align="center" width="80">
         <a href="https://linkedin.com/in/still-sontaypham" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/><br/>
-          <span style="color:#fff;">LinkedIn</span>
         </a>
       </td>
       <td align="center" width="80">
         <a href="https://fb.com/sontaypham226" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/><br/>
-          <span style="color:#fff;">Facebook</span>
         </a>
       </td>
     </tr>
@@ -31,7 +28,8 @@
 
 
 
----
+<hr style="border: none; height: 1px; background-color: #444; margin: 30px 0;" />
+
 
 <h3 align="center"> Languages and Tools </h3>
 
@@ -68,18 +66,8 @@
 
 
 
----
+<hr style="border: none; height: 1px; background-color: #444; margin: 30px 0;" />
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
-?username=psontay
-&show_icons=true
-&theme=dark" />
-</p>
-
-
-
----
 
 <p align="center"><b>"Cho dù chỉ còn lại một ý chí."</b></p>
 

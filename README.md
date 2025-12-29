@@ -51,6 +51,10 @@
         <span style="color:#fff">Spring</span>
       </td>
       <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"width="40" height="40" alt="Go"/><br/>
+        <span style="color:#fff">Go</span>
+      </td>
+      <td align="center" width="80">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/>
         <span style="color:#fff">Git</span>
       </td>

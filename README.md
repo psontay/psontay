@@ -36,10 +36,6 @@
   <table style="background-color:#1e1e1e; border:1px solid #444; border-radius:8px; padding:10px;">
     <tr>
       <td align="center" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>
-        <span style="color:#fff">C++</span>
-      </td>
-      <td align="center" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>
         <span style="color:#fff">Java</span>
       </td>

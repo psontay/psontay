@@ -2,33 +2,11 @@
 
 
 
-<h3 align="center">Connect with me</h3>
-
-<div align="center">
-  <table style="background-color:#1e1e1e; border:1px solid #444; border-radius:8px; padding:10px;">
-    <tr>
-      <td align="center" width="80">
-        <a href="mailto:phamsontay2206@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/><br/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://linkedin.com/in/still-sontaypham" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/><br/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://fb.com/sontaypham226" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/><br/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
-<hr style="border: none; border-top: 1px solid #30363d; margin: 25px 0; opacity: 0.5;" />
+
+<!-- <hr style="border: none; border-top: 1px solid #30363d; margin: 25px 0; opacity: 0.5;" /> -->
 
 <h3 align="center"> Languages and Tools </h3>
 

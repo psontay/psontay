@@ -25,6 +25,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" alt="Go""4
         <span style="color:#fff">Go</span>
       </td>
+      <!-- <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/><br/>
+        <span style="color:#fff">Go</span>
+      </td> -->
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="40" alt="Gin"/><br/>
+        <span style="color:#fff">Gin</span>
+      </td>
       <td align="center" width="80">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br/>
         <span style="color:#fff">Git</span>

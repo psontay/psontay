@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Son Tay Pham 👍</h1>
 
-
+<br/>
 
 <p align="center">
   Tech Stack &nbsp;
@@ -18,21 +18,22 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
+  <br/>
+
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=psontay&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api?username=psontay&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
     height="170"
     alt="GitHub stats"
   />&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=psontay&layout=compact&theme=tokyonight&hide_border=false&langs_count=6"
-    height="170"
+src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python"    height="170"
     alt="Top languages"
   />
 </p>
-
-<h1></h1>
+  <br/>
+  <h1></h1>
 
 <p align="center" style="font-style: italic; color: #8b949e; font-weight: 300;">
   "Sống rực rỡ như hoa mùa hạ, chết đẹp đẽ như lá mùa thu."

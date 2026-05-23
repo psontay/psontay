@@ -1,12 +1,27 @@
-<h1 align="center">Hey, I'm Son Tay Pham 👍</h1>
+<h1 align="center">Just.SonTayPham</h1>
 
-<br/>
-
+<!-- Thêm mới: About Me ngắn gọn, giới thiệu bản thân cho recruiter -->
 <p align="center">
-  Tech Stack &nbsp;
+  Backend Developer &nbsp;·&nbsp; Actively looking for Intern opportunities &nbsp;·&nbsp; Ho Chi Minh City
 </p>
 
-<!-- Tech stack dùng shields.io badges — dễ nhìn, không cần host ảnh -->
+<!-- Thêm mới: contact badges — LinkedIn + Email -->
+<p align="center">
+  <a href="https://linkedin.com/in/stillelvis">
+    <img src="https://img.shields.io/badge/LinkedIn-stillelvis-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:work.elvispham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-work.elvispham@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+<h1></h1>
+
+<p align="center">Tech Stack</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -18,7 +33,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-  <br/>
+<br/>
 
 
 <p align="center">
@@ -28,12 +43,14 @@
     alt="GitHub stats"
   />&nbsp;&nbsp;
   <img
-src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python&count_private=false"    height="170"
+    src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python&count_private=false"
+    height="170"
     alt="Top languages"
   />
 </p>
-  <br/>
-  <h1></h1>
+
+
+<h1></h1>
 
 <p align="center" style="font-style: italic; color: #8b949e; font-weight: 300;">
   "Sống rực rỡ như hoa mùa hạ, chết đẹp đẽ như lá mùa thu."

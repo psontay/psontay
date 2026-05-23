@@ -28,7 +28,7 @@
     alt="GitHub stats"
   />&nbsp;&nbsp;
   <img
-src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python"    height="170"
+src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python&count_private=false"    height="170"
     alt="Top languages"
   />
 </p>

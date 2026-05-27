@@ -52,5 +52,5 @@
 <h1></h1>
 
 <p align="center" style="font-style: italic; color: #8b949e; font-weight: 300;">
-  "Kiên trì không có phàm cổ, vì vốn dĩ kiên trì là phi phàm."
+  "Trung thành với người khác là phản bội chính mình, phản bội người khác là trung thành chính mình."
 </p>

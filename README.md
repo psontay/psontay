@@ -1,8 +1,8 @@
-<h1 align="center">Just.SonTayPham</h1>
+<p align="center">Just.SonTayPham</p>
 
 <!-- Thêm mới: About Me ngắn gọn, giới thiệu bản thân cho recruiter -->
 <p align="center">
-  Backend Developer &nbsp;·&nbsp; Actively looking for Intern opportunities &nbsp;·&nbsp; Ho Chi Minh City
+  Backend Developer &nbsp;·&nbsp; Ho Chi Minh City
 </p>
 
 <!-- Thêm mới: contact badges — LinkedIn + Email -->
@@ -19,7 +19,7 @@
 
 <h1></h1>
 
-<p align="center">Tech Stack</p>
+<p align="center">Depend On</p>
 
 
 <p align="center">
@@ -33,8 +33,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-<br/>
-
+<h1></h1>
 
 <p align="center">
   <img
@@ -53,5 +52,5 @@
 <h1></h1>
 
 <p align="center" style="font-style: italic; color: #8b949e; font-weight: 300;">
-  "Sống rực rỡ như hoa mùa hạ, chết đẹp đẽ như lá mùa thu."
+  "Kiên trì không có phàm cổ, vì vốn dĩ kiên trì là phi phàm."
 </p>

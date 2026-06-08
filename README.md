@@ -1,56 +1,40 @@
-<p align="center">Just.SonTayPham</p>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<!-- Thêm mới: About Me ngắn gọn, giới thiệu bản thân cho recruiter -->
-<p align="center">
-  Backend Developer &nbsp;·&nbsp; Ho Chi Minh City
-</p>
+```json
+{
+  "name": "Pham Son Tay",
+  "alias": "Just.SonTayPham",
+  "location": "Ho Chi Minh City, Vietnam",
+  "role": "Backend Developer",
+  "contact": {
+    "linkedin": "linkedin.com/in/stillelvis",
+    "email": "work.elvispham@gmail.com"
+  },
+  "stack": {
+    "languages": ["Java", "Go"],
+    "frameworks": ["Spring Boot", "Gin", "gRPC"],
+    "databases": ["PostgreSQL", "Redis", "MySQL"],
+    "devops": ["Docker", "GitHub Actions", "Linux"]
+  },
+  "quote": 
+  "Bất quá là một chút phong sương."
+}
+```
 
-<!-- Thêm mới: contact badges — LinkedIn + Email -->
-<p align="center">
-  <a href="https://linkedin.com/in/stillelvis">
-    <img src="https://img.shields.io/badge/LinkedIn-stillelvis-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:work.elvispham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-work.elvispham@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-
-<h1></h1>
-
-<p align="center">Depend On</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gin-00ACD7?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-<h1></h1>
-
-<p align="center">
+</td>
+<td valign="top" width="40%">
   <img
     src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api?username=psontay&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
-    height="170"
+    width="100%"
     alt="GitHub stats"
-  />&nbsp;&nbsp;
-  <img
+  />
+<img
     src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python&count_private=false"
-    height="170"
+    width="100%"
     alt="Top languages"
   />
-</p>
-
-
-<h1></h1>
-
-<p align="center" style="font-style: italic; color: #8b949e; font-weight: 300;">
-  "Trung thành với người khác là phản bội chính mình, phản bội người khác là trung thành chính mình."
-</p>
+</td>
+</tr>
+</table>

@@ -18,8 +18,7 @@
     "databases": ["PostgreSQL", "Redis", "MySQL"],
     "devops": ["Docker", "GitHub Actions", "Linux"]
   },
-  "quote": 
-  "Bất quá là một chút phong sương."
+  "quote": "Bất quá là một chút phong sương."
 }
 ```
 

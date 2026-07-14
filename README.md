@@ -3,6 +3,7 @@
 Backend Developer based in Ho Chi Minh City, Vietnam.
 
 I build backend services with a focus on clean architecture, distributed systems, and operational simplicity.
+
 Currently working with Java and Go across microservice and monolith contexts.
 
 ##

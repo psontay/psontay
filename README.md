@@ -1,39 +1,27 @@
-<table>
-<tr>
-<td valign="top" width="60%">
+## Pham Son Tay
 
-```json
-{
-  "name": "Pham Son Tay",
-  "alias": "Just.SonTayPham",
-  "location": "Ho Chi Minh City, Vietnam",
-  "role": "Backend Developer",
-  "contact": {
-    "linkedin": "linkedin.com/in/stillelvis",
-    "email": "work.elvispham@gmail.com"
-  },
-  "stack": {
-    "languages": ["Java", "Go"],
-    "frameworks": ["Spring Boot", "Gin", "gRPC"],
-    "databases": ["PostgreSQL", "Redis", "MySQL"],
-    "devops": ["Docker", "GitHub Actions", "Linux"]
-  },
-  "quote": "system build consistency"
-}
-```
+Backend Developer based in Ho Chi Minh City, Vietnam.
 
-</td>
-<td valign="top" width="40%">
-  <img
-    src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api?username=psontay&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true"
-    width="100%"
-    alt="GitHub stats"
-  />
-<img
-    src="https://github-readme-stats-alpha-ruddy-76rn9x1enw.vercel.app/api/top-langs/?username=psontay&layout=donut&theme=tokyonight&hide_border=false&langs_count=2&hide=html,css,javascript,python&count_private=false"
-    width="100%"
-    alt="Top languages"
-  />
-</td>
-</tr>
-</table>
+I build backend services with a focus on clean architecture, distributed systems, and operational simplicity.
+Currently working with Java and Go across microservice and monolith contexts.
+
+##
+
+**Languages:** Java · Go
+
+**Frameworks:** Spring Boot · Gin · gRPC
+
+**Messaging:** Kafka
+
+**Databases:** PostgreSQL · Redis · MySQL
+
+**Observability:** Prometheus · Grafana · Zipkin
+
+**DevOps:** Docker · Docker Compose · GitHub Actions · Linux
+
+##
+
+**Contact**
+- LinkedIn: linkedin.com/in/stillelvis
+- Email: work.elvispham@gmail.com
+- Facebook: facebook.com/stillelvis

@@ -16,7 +16,7 @@ Currently working with Java and Go across microservice and monolith contexts.
 
 **Databases:** PostgreSQL · Redis · MySQL
 
-**Observability:** Prometheus · Grafana · Zipkin
+**Observability:** Prometheus · Grafana · Zipkin · Loki
 
 **DevOps:** Docker · Docker Compose · GitHub Actions · Linux
 
